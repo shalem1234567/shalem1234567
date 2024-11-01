@@ -5,7 +5,3 @@ github
 lies
 broweser
 filtering
-laptop
-mouse
-hey 
-hue
